@@ -1,3 +1,46 @@
+## React-Firebase CRUD operations
+<h4> I have developed this project in order to understand how CRUD(Create,Read,Update,Delete) operation works in firebase and with the help of react</h4>
+
+one more reason why react is used is, it helps in dynamic visualization and realtime update of the CRUD operation.
+<ul>
+  this web-app consists of:
+  <li>ReactJS</li>
+  <li>Firebase</li>
+  <li>bootstrap</li>
+</ul>
+
+this looks like:</br>
+<b>first launch(npm start) </b> 
+</br>
+<img src="./assets/main.png" width=1000px/>
+
+</br>
+</br>
+<b>Creating the first record (Create operation)</b>
+<br/>
+<img src="./assets/create.png" width=1000px/>
+</br>
+</br>
+<b>data in realtime database of firebase after the first record creation:</b>
+<br/>
+<img src="./assets/realtime-db.png" width=1000px/>
+</br>
+</br>
+<b>Updating the first record (Update operation)</b>
+<br/>
+<img src="./assets/before-update.png" width=700px/>
+</br>
+</br>
+<b>after Updating the first record (Update operation)</b>
+<br/>
+<img src="./assets/after-update.png" width=700px/>
+
+</br>
+</br>
+<b>Deleting a record (Delete operation)</b>
+<br/>
+<img src="./assets/delete.png" width=1000px/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

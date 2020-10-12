@@ -41,6 +41,11 @@ this looks like:</br>
 <br/>
 <img src="./assets/delete.png" width=1000px/>
 
+<h3> Also check out the working demo <a href="https://reactfirebasecrud.netlify.app/">HERE</a>
+  
+ <h2>Happy Coding!!</h2>
+ 
+ </br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

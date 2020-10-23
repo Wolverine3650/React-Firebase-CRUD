@@ -1,4 +1,5 @@
 ## React-Firebase CRUD operations
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d362aac-4ee7-4416-b24d-c4fed73cde48/deploy-status)](https://app.netlify.com/sites/reactfirebasecrud/deploys)
 <h4> I have developed this project in order to understand how CRUD(Create,Read,Update,Delete) operation works in firebase and with the help of react</h4>
 
 one more reason why react is used is, it helps in dynamic visualization and realtime update of the CRUD operation.
